@@ -2,11 +2,11 @@
 
 # step 1
 
-conda create <env name> -p python=3.11
+conda create env -p python=3.11
 
 # step 2
 
-conda activate <env name>
+conda activate env
 
 # step 3
 
