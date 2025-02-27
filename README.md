@@ -15,9 +15,12 @@ pip install -r requirements.txt
 # step 4
 
 cd mobile-price-prediction
-cd src
 
 # step 5
+
+cd src
+
+# step 6
  
 python predict_price.py
  
